@@ -219,6 +219,7 @@ flake8 src/ --max-line-length 88
 
 If you use this code in your research, please cite:
 
+```bibtex
 @article{
 shokrolahi2025combating,
 title={Combating Inter-Task Confusion and Catastrophic Forgetting by Metric Learning and Re-Using a Past Trained Model},
@@ -227,9 +228,8 @@ journal={Transactions on Machine Learning Research},
 issn={2835-8856},
 year={2025},
 url={https://openreview.net/forum?id=jRbKsQ3sYO},
-note={}
 }
-
+```
 
 ## 📄 License
 
