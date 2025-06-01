@@ -240,12 +240,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ContinualAI](https://github.com/ContinualAI) community for continual learning resources
 - PyTorch team for the excellent deep learning framework
 
-## 📞 Contact
-
-- **Author**: Moslem Shokrolahi.
-- **Email**: moslem.sh.99@gmail.com
-- **GitHub**: [@Moslem-Sh21](https://github.com/Moslem-Sh21)
-- **LinkedIn**: linkedin.com/in/moslem-shokrolahi-22a48575/
 
 ## 🔄 Updates
 
